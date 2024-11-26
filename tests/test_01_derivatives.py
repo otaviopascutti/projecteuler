@@ -1,3 +1,4 @@
+# I wanted to calculate the values and derivatives for the function f(x)=x^2
 my_values = []
 my_derivatives = []
 x = -4
