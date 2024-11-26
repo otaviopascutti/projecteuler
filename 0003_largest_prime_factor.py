@@ -11,4 +11,4 @@ while i <= n:
         factors.append(i)
         n = n/i
     i += 1
-print(factors)
+print(f"Prime Factors: {factors}\nLargest Prime Factor: {factors[-1]}")
