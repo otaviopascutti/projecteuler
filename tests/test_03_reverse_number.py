@@ -1,4 +1,6 @@
-#to be continued
+#this will be useful for the solution of problem 0004
+#this script reverts number and then checks if its a palindrome
+
 #number to be reversed
 number = 99099
 
