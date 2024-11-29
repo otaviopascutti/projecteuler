@@ -4,7 +4,6 @@
 n = 100
 sum_of_numbers = 0
 sum_of_squares = 0
-square_of_the_sum = 0
 for i in range(n):
     sum_of_squares += pow((i+1),2)
     sum_of_numbers += (i+1)
